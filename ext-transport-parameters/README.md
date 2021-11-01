@@ -21,3 +21,7 @@ For historical reasons these start with `ext_` and are not URNs.
   - **Description:** URL of the Events API resource providing the current state and type of an Event emitter (Source).
   - **Specification:** [AMWA IS-07 v1.0](https://github.com/AMWA-TV/nmos-event-tally/tree/v1.0.x)
   - **Applicability:** AMWA IS-05 v1.1+, IS-07 v1.0+
+- **Name:** `ext_link_offset_delay`
+  - **Description:** Used to synchronise playout time of all components of a stream by IPMX receivers.
+  - **Specification:** ST 2110-10:2021 and VSF TR-10-1
+  - **Applicability:** AMWA IS-05 v1.1+
